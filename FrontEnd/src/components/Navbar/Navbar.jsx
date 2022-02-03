@@ -9,7 +9,6 @@ function Navbar() {
       </div>
       <div>
         <nav>
-          <div className="menu-icon"></div>
           <ul>
             <Link to="/" className="nav-links">
               Home
